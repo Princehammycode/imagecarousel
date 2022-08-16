@@ -98,6 +98,9 @@ p{
 }
 
 @media(max-width:580px){
+    h3{
+    font-size: 12px;
+    }
     h1{
         line-height: 100%;
         font-size: 26px;
